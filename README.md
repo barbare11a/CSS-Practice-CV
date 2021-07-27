@@ -1,1 +1,1 @@
-# learning-css
+# CSS Practice CV
